@@ -95,5 +95,6 @@ pat.getPatientDetails()
 ```
 ## Sample Output
 <img width="458" height="666" alt="image" src="https://github.com/user-attachments/assets/3d786b5b-4cbc-4db4-b6dd-9ee981d6d3fa" />
+
 ## Result
 Thus, it is proved that hierarchical inheritance allows multiple derived classes (Employee and Patient) to inherit common properties and behaviors from a single base class (Details), demonstrating effective code reusability and organization.
